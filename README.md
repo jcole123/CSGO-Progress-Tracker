@@ -1,1 +1,1 @@
-# CSGO-Progress-Tracker
+Java Application to track rank progress in Counter Strike: Global Offensive
